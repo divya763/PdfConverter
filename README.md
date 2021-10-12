@@ -1,2 +1,2 @@
 # PdfConverter
-Convert text files to Pdddf
+Convert text files to Pdf
